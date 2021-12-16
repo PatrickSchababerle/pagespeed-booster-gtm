@@ -1,0 +1,5 @@
+homepage: "https://github.com/PatrickSchababerle/pagespeed-booster-gtm/"
+documentation: "https://github.com/PatrickSchababerle/pagespeed-booster-gtm/blob/master/README.md"
+versions:
+  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+    changeNotes: Initial release.
