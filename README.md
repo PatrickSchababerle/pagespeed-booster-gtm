@@ -3,6 +3,11 @@
 
 Improve your Time to Interactive Score with one simple movement.
 
+## Why should I be using Pagespeed Booster?
+
+Too many tags in your Google Tag Manager container are increasing the TTI (Time to Interactive) in your Google Pagespeed Score. You can easily improve this by deferring these tags to be loaded after a certain amount of time.
+
+Even if you only have a Google Analytics Universal Analytics and a Google Analytics 4 tag installed at the same time, you will be able to see the improvement effect directly in the Pagespeed analysis.
 
 ## Installation
 
