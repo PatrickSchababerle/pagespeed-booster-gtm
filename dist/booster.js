@@ -1,0 +1,1 @@
+(()=>{const e=window.gtm_psb;void 0!==e&&setTimeout((()=>{dataLayer.push({event:e.eventName})}),e.deferTime)})();
